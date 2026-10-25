@@ -1,14 +1,28 @@
-# Junior software developer
+# Junior software developer (Juan Jose Yepes)
 
-## About me 
+## 🚀 About Me
 
-- 🔭 I’m currently studying software engineering in third semester
-- 🔭 I’m learning JavaScript, Node.js and Express.js
-- 🌱 I currently have knowledge in HTML, CSS, SQL, MYSQL
-- 🌱 I’m looking for an opportunity as a junior software developer
-- 🤔 I’m looking for feedbacks about others to learn about mistakes and things I should improve as a developer
-- 💬 Project, with HTML, CSS and JavaScript  
-https://gentleman-s-experience.vercel.app/
-- ⚡ I love technology and programming, I look forward increase my knowledge to reach being a strong software developer
-- 🔭 Platzi student
+- 👨‍💻 **Current Status:** Third-semester Software Engineering student at Pascual Bravo University
+- 🎓 **Continuous Learning:** Actively studying advanced development on Platzi.
+- 📈 **Growth Mindset:** Constantly seeking feedback from mentors to learn from mistakes and continuously sharpen my skills.
+- ⚡ **Passionate About:** System design, clean code architecture, and automation.
+
+## 🛠️ Tech Stack & Skills
+
+### 🖥️ Frontend
+* HTML5 / CSS3 / JavaScript (ES6+)
+
+### ⚙️ Backend & Frameworks
+* Node.js / Express.js (Currently mastering)
+
+### 🗄️ Databases
+* SQL / MySQL
+
+---
+
+## 📂 Featured Project
+
+### 💈 [The Gentleman's Experience](https://gentleman-s-experience.vercel.app/)
+
+
 
